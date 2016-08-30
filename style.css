@@ -1,0 +1,23 @@
+.header {
+  color: #36B3E8;
+  box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.50);
+
+  width: 98vw;
+  height: 20px;
+  padding: 5px;
+
+
+}
+
+.header2 {
+  background: black;
+  width: 97vw;
+  height: 10px;
+  padding: 5px;
+  font-size: 12px;
+  text-align: -webkit-left;
+  /* text-orientation: initial; */
+  /* table-layout: fixed; */
+  /* text-align: -webkit-left; */
+}
+}
